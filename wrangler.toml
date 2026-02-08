@@ -1,0 +1,3 @@
+name = "cloudflare-shadowsocks"
+compatibility_date = "2026-02-09"
+main = "shadowsocks.js"
